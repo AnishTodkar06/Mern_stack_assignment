@@ -1,0 +1,12 @@
+body {
+  background-color: #f0f8ff; /* Light blue background */
+  color: #333; /* Dark text color */
+}
+
+code {
+  background-color: #ffe0e0; /* Light red background for code */
+  border: 2px solid #ff0000; /* Add a red border for visibility */
+  padding: 4px; /* Add padding for spacing */
+}
+
+
